@@ -1,0 +1,165 @@
+*{ box-sizing: border-box;
+    margin: 0;}
+    
+    table{ width:100%;
+    height: 100vh;
+    }
+    
+    td{ width: 4%;
+    height: 8vh;
+    text-align: center;
+
+    }
+    
+    .border{border: solid;
+    }
+    
+    div{ font-size: 15px;
+         text-align: left;
+    }
+    
+    h1{  font-size: 450%;
+    text-align: center;
+    font-family: "Bricolage Grotesque", sans-serif;}
+    
+    h2{ font-size: 25px;
+        text-align: center;
+    }
+    
+    .naometais{ 
+        background-color: 
+        #9cfd6f;
+        border: solid;
+        border-color:#9cfd6f;
+        border-radius: 15%;}
+    .metaisalcalinos{ 
+        background-color: 
+        #fdad4b;
+        border: solid;
+        border-color:#fdad4b;
+        border-radius: 15%;} 
+    .semimetais{ 
+        background-color: 
+        #85fce2;
+        border-color:#85fce2;
+        border-radius: 15%;} 
+    .metaisterrosos{ 
+        background-color:#f6f881;
+        border-color:#f6f881;
+        border-radius: 15%;}
+    .metaistransição{
+        background-color: #ff98ae;
+        border-color: #ff98ae;
+        border-radius: 15%;}
+    .lantanideos{
+        background-color: #4dcde4;
+        border-color: #4dcde4;
+        border-radius: 15%;}
+    .ctinidios{
+        background-color: #cf94f1;
+        border-color: #cf94f1;
+        border-radius: 15%;}
+    .outrosmetais{
+        background-color: #81b0e6;
+        border-color: #81b0e6;
+        border-radius: 15%;}
+    .halogenios{
+        background-color: #b1edff;
+        border-color: #b1edff;
+        border-radius: 15%;}
+    .gasesnobres{
+        background-color: #6996f7;
+        border-color: #6996f7;
+        border-radius: 15%;}
+    
+
+        .redondo1{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #9cfd6f;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo2{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #fdad4b;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo3{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #85fce2;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo4{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #81b0e6;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo5{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #4dcde4;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo6{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #6996f7;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo7{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #f6f881;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo8{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #b1edff;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo9{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #ff98ae;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
+        .redondo10{
+            width: 30px;
+            height: 30px;
+    
+            background-color: #cf94f1;
+            border-radius: 100%;
+    
+            margin-left: auto;
+        }
